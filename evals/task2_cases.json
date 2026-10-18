@@ -1,0 +1,122 @@
+[
+  {
+    "id": "email-01",
+    "subject": "Profile help",
+    "body": "How do I update my profile?",
+    "expected_category": "how_to"
+  },
+  {
+    "id": "email-02",
+    "subject": "Refund",
+    "body": "I want a refund",
+    "expected_category": "refund"
+  },
+  {
+    "id": "email-03",
+    "subject": "Complaint",
+    "body": "This is unacceptable",
+    "expected_category": "complaint"
+  },
+  {
+    "id": "email-04",
+    "subject": "Quote",
+    "body": "Can you give me an estimate?",
+    "expected_category": "quote"
+  },
+  {
+    "id": "email-05",
+    "subject": "Follow-up",
+    "body": "I am checking in for an update",
+    "expected_category": "follow_up"
+  },
+  {
+    "id": "email-06",
+    "subject": "Member profile",
+    "body": "Where do I change my member profile details?",
+    "expected_category": "how_to"
+  },
+  {
+    "id": "email-07",
+    "subject": "Chargeback",
+    "body": "I want to dispute this charge",
+    "expected_category": "refund"
+  },
+  {
+    "id": "email-08",
+    "subject": "Unhappy customer",
+    "body": "Your service has been terrible",
+    "expected_category": "complaint"
+  },
+  {
+    "id": "email-09",
+    "subject": "Price estimate",
+    "body": "How much would a new directory cost?",
+    "expected_category": "quote"
+  },
+  {
+    "id": "email-10",
+    "subject": "Ticket status",
+    "body": "Any update on my support ticket?",
+    "expected_category": "follow_up"
+  },
+  {
+    "id": "email-11",
+    "subject": "Login instructions",
+    "body": "How can I sign in again?",
+    "expected_category": "how_to"
+  },
+  {
+    "id": "email-12",
+    "subject": "Payment refund",
+    "body": "Please return my payment",
+    "expected_category": "refund"
+  },
+  {
+    "id": "email-13",
+    "subject": "Service complaint",
+    "body": "I am angry about the delay",
+    "expected_category": "complaint"
+  },
+  {
+    "id": "email-14",
+    "subject": "Proposal",
+    "body": "Please send a pricing proposal",
+    "expected_category": "quote"
+  },
+  {
+    "id": "email-15",
+    "subject": "Checking in",
+    "body": "Following up on the previous email",
+    "expected_category": "follow_up"
+  },
+  {
+    "id": "email-16",
+    "subject": "Settings question",
+    "body": "Where can I change my settings?",
+    "expected_category": "how_to"
+  },
+  {
+    "id": "email-17",
+    "subject": "Money back",
+    "body": "Can I get my money back?",
+    "expected_category": "refund"
+  },
+  {
+    "id": "email-18",
+    "subject": "Escalation",
+    "body": "This is unacceptable and I need a manager",
+    "expected_category": "complaint"
+  },
+  {
+    "id": "email-19",
+    "subject": "Budget",
+    "body": "Can you estimate the price for this work?",
+    "expected_category": "quote"
+  },
+  {
+    "id": "email-20",
+    "subject": "Progress",
+    "body": "Checking in to see whether there is progress",
+    "expected_category": "follow_up"
+  }
+]

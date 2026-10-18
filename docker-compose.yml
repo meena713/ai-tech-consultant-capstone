@@ -1,0 +1,20 @@
+services:
+  task1:
+    build: ./task1
+    ports: ["8000:8000"]
+    env_file: .env
+    volumes: ["knowledge_data:/data"]
+  task2:
+    build: ./task2
+    ports: ["3000:3000"]
+    env_file: .env
+    depends_on: [task1]
+  task3:
+    build: ./task3
+    ports: ["8002:8002"]
+    env_file: .env
+    volumes: ["proposal_data:/data"]
+    depends_on: [task1]
+volumes:
+  knowledge_data:
+  proposal_data:

@@ -1,0 +1,252 @@
+[
+  {
+    "emailId": "email-001",
+    "subject": "Member profile update",
+    "body": "How can I update the phone number and description on my member profile?"
+  },
+  {
+    "emailId": "email-002",
+    "subject": "Forgot password",
+    "body": "I forgot my password and cannot sign in. What should I do?"
+  },
+  {
+    "emailId": "email-003",
+    "subject": "Refund request",
+    "body": "I was charged yesterday and would like to request a refund. Can you help?"
+  },
+  {
+    "emailId": "email-004",
+    "subject": "Billing concern",
+    "body": "I do not recognize this charge on my invoice. Please have someone review it."
+  },
+  {
+    "emailId": "email-005",
+    "subject": "Category setup",
+    "body": "How do I add a new category to my directory?"
+  },
+  {
+    "emailId": "email-006",
+    "subject": "Search filters",
+    "body": "Can visitors filter listings by city and category? Is this built in?"
+  },
+  {
+    "emailId": "email-007",
+    "subject": "Custom report",
+    "body": "We need a monthly report emailed to managers. Is this a native feature?"
+  },
+  {
+    "emailId": "email-008",
+    "subject": "Quote request",
+    "body": "Please provide an estimate for a directory with 500 member profiles."
+  },
+  {
+    "emailId": "email-009",
+    "subject": "Complaint about delay",
+    "body": "I have waited two weeks for an answer and this is unacceptable."
+  },
+  {
+    "emailId": "email-010",
+    "subject": "Follow-up on ticket",
+    "body": "I am following up on my support ticket. Is there any update?"
+  },
+  {
+    "emailId": "email-011",
+    "subject": "Image upload",
+    "body": "What image size should I use for my member logo?"
+  },
+  {
+    "emailId": "email-012",
+    "subject": "Membership levels",
+    "body": "Can I create different membership levels for paid and free members?"
+  },
+  {
+    "emailId": "email-013",
+    "subject": "Domain setup",
+    "body": "How do I connect my own domain name?"
+  },
+  {
+    "emailId": "email-014",
+    "subject": "Email notifications",
+    "body": "Where can I change notification email settings?"
+  },
+  {
+    "emailId": "email-015",
+    "subject": "Cancellation",
+    "body": "I want to cancel my subscription. Please tell me the next steps."
+  },
+  {
+    "emailId": "email-016",
+    "subject": "Data export",
+    "body": "Can I export member data to a CSV file?"
+  },
+  {
+    "emailId": "email-017",
+    "subject": "Spam listing",
+    "body": "A listing appears to be spam. How can I report or remove it?"
+  },
+  {
+    "emailId": "email-018",
+    "subject": "Contact form",
+    "body": "Can I add an inquiry form to a member profile page?"
+  },
+  {
+    "emailId": "email-019",
+    "subject": "Mobile display",
+    "body": "Will the directory work on mobile phones?"
+  },
+  {
+    "emailId": "email-020",
+    "subject": "Theme branding",
+    "body": "How do I change the logo and colors to match our brand?"
+  },
+  {
+    "emailId": "email-021",
+    "subject": "Payment failure",
+    "body": "A member says their payment failed but they were charged. Please investigate."
+  },
+  {
+    "emailId": "email-022",
+    "subject": "Security concern",
+    "body": "I received a suspicious login email. What should I do?"
+  },
+  {
+    "emailId": "email-023",
+    "subject": "Admin access",
+    "body": "How can I add another administrator to the site?"
+  },
+  {
+    "emailId": "email-024",
+    "subject": "Import members",
+    "body": "We have a spreadsheet of members. What is the supported import process?"
+  },
+  {
+    "emailId": "email-025",
+    "subject": "Duplicate profile",
+    "body": "There are two profiles for the same business. How should we handle this?"
+  },
+  {
+    "emailId": "email-026",
+    "subject": "Featured listing",
+    "body": "Can we charge members extra to feature their listings? Please verify if supported."
+  },
+  {
+    "emailId": "email-027",
+    "subject": "SEO question",
+    "body": "Where can I edit the title and description used by search engines?"
+  },
+  {
+    "emailId": "email-028",
+    "subject": "Site performance",
+    "body": "The website seems slow today. What information should I send support?"
+  },
+  {
+    "emailId": "email-029",
+    "subject": "Invoice copy",
+    "body": "Could you send me a copy of last month's invoice?"
+  },
+  {
+    "emailId": "email-030",
+    "subject": "Trial conversion",
+    "body": "How do I change a trial member to a paid membership?"
+  },
+  {
+    "emailId": "email-031",
+    "subject": "Member approval",
+    "body": "Can new member registrations require admin approval?"
+  },
+  {
+    "emailId": "email-032",
+    "subject": "Location fields",
+    "body": "How can I add a city or region field to a listing?"
+  },
+  {
+    "emailId": "email-033",
+    "subject": "Custom development",
+    "body": "We want a dashboard that does not appear in the standard product. Can you quote it?"
+  },
+  {
+    "emailId": "email-034",
+    "subject": "Report clarification",
+    "body": "For the monthly report, we need CSV format and delivery on the first day of each month."
+  },
+  {
+    "emailId": "email-035",
+    "subject": "Complaint escalation",
+    "body": "I have contacted support several times and still have no solution."
+  },
+  {
+    "emailId": "email-036",
+    "subject": "Password reset link",
+    "body": "My password reset link expired. Can I request another one?"
+  },
+  {
+    "emailId": "email-037",
+    "subject": "Profile visibility",
+    "body": "Can a member hide their phone number from public visitors?"
+  },
+  {
+    "emailId": "email-038",
+    "subject": "Directory categories",
+    "body": "Can one listing belong to more than one category?"
+  },
+  {
+    "emailId": "email-039",
+    "subject": "Quote follow-up",
+    "body": "Checking whether you have reviewed the quote for our membership site."
+  },
+  {
+    "emailId": "email-040",
+    "subject": "Refund status",
+    "body": "My refund was approved according to the last email. How can I check its status?"
+  },
+  {
+    "emailId": "email-041",
+    "subject": "Email template",
+    "body": "Where can I update the welcome email sent to new members?"
+  },
+  {
+    "emailId": "email-042",
+    "subject": "CSV import errors",
+    "body": "Some rows in my member import failed. How do I troubleshoot the errors?"
+  },
+  {
+    "emailId": "email-043",
+    "subject": "Accessibility",
+    "body": "Are there accessibility settings or recommendations for the site theme?"
+  },
+  {
+    "emailId": "email-044",
+    "subject": "Integration question",
+    "body": "Can we connect the directory to our CRM? Please explain supported options."
+  },
+  {
+    "emailId": "email-045",
+    "subject": "Outage concern",
+    "body": "I cannot access the admin dashboard. Is there an outage?"
+  },
+  {
+    "emailId": "email-046",
+    "subject": "Billing plan",
+    "body": "How can I compare the features included in different subscription plans?"
+  },
+  {
+    "emailId": "email-047",
+    "subject": "New feature request",
+    "body": "Please add a feature that automatically emails reports to all managers."
+  },
+  {
+    "emailId": "email-048",
+    "subject": "Review moderation",
+    "body": "Can admins moderate reviews before they appear publicly?"
+  },
+  {
+    "emailId": "email-049",
+    "subject": "Domain SSL",
+    "body": "My domain shows a security warning. What should I check first?"
+  },
+  {
+    "emailId": "email-050",
+    "subject": "Data privacy",
+    "body": "A member asked us to delete their profile. What is the correct process?"
+  }
+]

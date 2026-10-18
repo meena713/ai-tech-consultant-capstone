@@ -1,0 +1,14 @@
+[
+  {
+    "id": "meeting-01",
+    "transcript": "Consultant: What are you trying to build? Client: A membership directory with member profiles and category pages. We need our branding and a simple inquiry form. Consultant: We will check which pieces are native before estimating custom work."
+  },
+  {
+    "id": "meeting-02",
+    "transcript": "Client: We want a local business directory with categories, city filters, member profiles, and a monthly export. Consultant: Is the export CSV, PDF, or email? Client: We have not decided. Mark reporting as discovery until the format and delivery are confirmed."
+  },
+  {
+    "id": "meeting-03",
+    "transcript": "Client: We want profiles, categories, and search. Consultant: We will verify native capabilities. Follow-up: also add a paid featured listing and a monthly emailed report. These need documentation checks and clarified acceptance criteria before final scope."
+  }
+]

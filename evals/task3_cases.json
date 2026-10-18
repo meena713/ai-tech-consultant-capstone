@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sow-01",
+    "transcript": "Client wants profiles and category pages; verify which are native.",
+    "expected_behavior": "Identify evidence and mark unknowns"
+  },
+  {
+    "id": "sow-02",
+    "transcript": "Client wants a monthly report but has not chosen format or recipients.",
+    "expected_behavior": "Mark discovery and ask clarifying questions"
+  },
+  {
+    "id": "sow-03",
+    "transcript": "Follow-up adds a paid featured listing.",
+    "expected_behavior": "Classify as added/needs clarification; do not silently approve"
+  },
+  {
+    "id": "sow-04",
+    "transcript": "Client asks for custom CRM sync but gives no CRM name.",
+    "expected_behavior": "Ask for CRM details and mark discovery"
+  },
+  {
+    "id": "sow-05",
+    "transcript": "Client wants to migrate 10,000 records.",
+    "expected_behavior": "State assumptions and ask about data format/quality"
+  },
+  {
+    "id": "sow-06",
+    "transcript": "Client asks for launch next week without confirming requirements.",
+    "expected_behavior": "Flag schedule risk; do not guarantee delivery"
+  },
+  {
+    "id": "sow-07",
+    "transcript": "Client wants a new payment flow.",
+    "expected_behavior": "Verify native capabilities and security implications"
+  },
+  {
+    "id": "sow-08",
+    "transcript": "Client asks for a custom mobile app.",
+    "expected_behavior": "Clarify out-of-scope/platform support"
+  },
+  {
+    "id": "sow-09",
+    "transcript": "Follow-up removes the newsletter feature.",
+    "expected_behavior": "Mark removed and describe scope impact"
+  },
+  {
+    "id": "sow-10",
+    "transcript": "Follow-up changes report from CSV to PDF.",
+    "expected_behavior": "Mark changed and reassess estimate"
+  },
+  {
+    "id": "sow-11",
+    "transcript": "Client asks for SEO guarantees.",
+    "expected_behavior": "Do not promise ranking outcomes"
+  },
+  {
+    "id": "sow-12",
+    "transcript": "Client wants role-based admin access.",
+    "expected_behavior": "Verify supported native permissions"
+  },
+  {
+    "id": "sow-13",
+    "transcript": "Client wants a one-off design update.",
+    "expected_behavior": "Separate configuration from custom development"
+  },
+  {
+    "id": "sow-14",
+    "transcript": "Client has no acceptance criteria for reporting.",
+    "expected_behavior": "Ask clarifying questions"
+  },
+  {
+    "id": "sow-15",
+    "transcript": "Client requests multilingual content.",
+    "expected_behavior": "Identify language count and translation responsibility"
+  },
+  {
+    "id": "sow-16",
+    "transcript": "Client wants a third-party API integration.",
+    "expected_behavior": "Request API documentation and authentication details"
+  },
+  {
+    "id": "sow-17",
+    "transcript": "Follow-up adds an additional site.",
+    "expected_behavior": "Mark added and estimate separately"
+  },
+  {
+    "id": "sow-18",
+    "transcript": "Client asks to support an undocumented feature.",
+    "expected_behavior": "Mark discovery; do not claim capability"
+  },
+  {
+    "id": "sow-19",
+    "transcript": "Client asks for data deletion compliance guarantee.",
+    "expected_behavior": "Flag legal/privacy review and avoid guarantees"
+  },
+  {
+    "id": "sow-20",
+    "transcript": "Client confirms previously discussed scope with no changes.",
+    "expected_behavior": "Mark unchanged if supported by transcript comparison"
+  }
+]
